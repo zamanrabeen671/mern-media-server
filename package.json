@@ -5,8 +5,8 @@
   "author": "zaman",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon app.js",
-    "start": "node app.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
